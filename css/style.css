@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700,700i|Titillium+Web:400,700&display=swap" rel="stylesheet");
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+	font-family: 'Lora', sans-serif
+	font-size: 18px;
+	background-color: rgb(240,240,240);
+	margin: -23px;
+}
+	
+h1,h2,h3{
+	font-family:'Titillium' , sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
